@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @semanticz0
-- 👀 I’m interested in democratizing access to legal materials. 
-- 🌱 I’m currently learning python. 
+- 🌱 I’m currently learning programming and looking for fun projects
 
 <!---
 semanticz0/semanticz0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
